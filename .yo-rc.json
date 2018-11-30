@@ -1,0 +1,16 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.3.0",
+    "props": {
+      "appName": "ngx-cypress",
+      "description": "add Cypress to the project",
+      "author": "stephane.balasse@gmail.com",
+      "type": "client",
+      "advanced": true,
+      "projectName": "ngx-cypress",
+      "packageManager": "npm",
+      "className": "NgxCypress",
+      "isAddon": true
+    }
+  }
+}
