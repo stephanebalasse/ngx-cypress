@@ -25,7 +25,7 @@ class NgxCypressGenerator extends Generator {
 
   end() {
     if (this.props.addCypress && !this.updating) {
-      this.log(`- $ ${chalk.green(`${this.packageManager} run npm cypress`)}: Launch e2e Cypress`);
+      this.log(`- $ ${chalk.green(`${this.packageManager} run cypress`)}: Launch e2e Cypress`);
     }
   }
 }
