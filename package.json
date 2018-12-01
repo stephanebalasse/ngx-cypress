@@ -14,7 +14,8 @@
   "keywords": [
     "yeoman-generator",
     "ngx-rocket-addon",
-    "angular"
+    "angular",
+    "e2e"
   ],
   "author": "stephane.balasse@gmail.com",
   "license": "MIT",

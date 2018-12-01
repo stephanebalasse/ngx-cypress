@@ -1,6 +1,9 @@
+[![npm version](https://badge.fury.io/js/generator-ngx-cypress.svg)](https://badge.fury.io/js/generator-ngx-cypress.svg)
+[![cypress version](https://img.shields.io/badge/Cypress_Version-^3.1.2-green.svg)](https://img.shields.io/badge/cypress_Version-^3.1.2-green.svg) 
+
 # :rocket: ngx-cypress
 
-> add Cypress to the project
+> Add Cypress to the ngX-Rocket apps
 
 This add-on was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/) version 5.3.0
 
