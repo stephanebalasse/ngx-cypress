@@ -1,15 +1,20 @@
 {
   "name": "generator-ngx-cypress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "add Cypress to the project",
   "main": "./generators/app/index.js",
   "scripts": {
     "test": "eslint generators/app/*.js",
     "postpublish": "git tag -a $npm_package_version -m '$npm_package_version' && git push --tags"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephanebalasse/ngx-cypress.git"
+  },
   "keywords": [
     "yeoman-generator",
-    "ngx-rocket-addon"
+    "ngx-rocket-addon",
+    "angular"
   ],
   "author": "stephane.balasse@gmail.com",
   "license": "MIT",
