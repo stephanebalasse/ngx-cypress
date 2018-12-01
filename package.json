@@ -1,6 +1,6 @@
 {
   "name": "generator-ngx-cypress",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "add Cypress to the project",
   "main": "./generators/app/index.js",
   "scripts": {
